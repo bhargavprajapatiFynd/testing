@@ -7,6 +7,9 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "mytest": "./bin/mytest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
